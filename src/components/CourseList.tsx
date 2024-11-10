@@ -17,7 +17,7 @@ const ServicesList: React.FC<ServiceProps> = ({id}) => {
       title: 'Soutien scolaire à domicile',
       description: 'Aidez votre enfant à exceller dans toutes les matières scolaires grâce à notre service de soutien scolaire à domicile. Nous offrons un encadrement personnalisé qui renforce la confiance et améliore les résultats académiques.',
       image: '/tuteria.jpeg', // Replace with an appropriate image path
-      link: 'https://www.school-support-website.com', // Replace with the actual URL
+      link: '#', // Replace with the actual URL
     },
   ];
 
